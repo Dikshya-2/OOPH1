@@ -1,0 +1,3 @@
+﻿Lav en Audi.cs klasse som arver fra Bil.cs (BEMÆRK om din Bil.cs implementer keyword sealed!). Implementer 2 overload metode; GetPrice()
+   - ingen param, returner bare en pris
+   - dato som param, returner halv pris hvis bilen er over 10år gammel
